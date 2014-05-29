@@ -1,0 +1,4 @@
+dotnetssdb
+==========
+
+SSDB .Net client
